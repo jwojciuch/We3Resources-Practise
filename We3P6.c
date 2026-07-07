@@ -31,5 +31,7 @@ int main(void)
             printf("%d", arr[k]);
         }
     }
+
+    return 0;
     
 }        
